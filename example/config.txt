@@ -1,0 +1,2 @@
+Prefix plugins/DivideHighLow/example/
+Plugin DivideHighLow inputfile PTR_species_filtered_metadata_major.csv outputfile .
